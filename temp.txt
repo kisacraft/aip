@@ -1,1 +1,0 @@
-When you open a project in PyCharm, the default user interface looks as follows:
