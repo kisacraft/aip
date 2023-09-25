@@ -1,4 +1,5 @@
 # Тестовый файл
+# Это проверка
 
 
 from random import randrange
