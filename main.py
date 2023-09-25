@@ -1,5 +1,6 @@
 # Тестовый файл
 
+
 from random import randrange
 from test import power
 
