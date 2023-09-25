@@ -1,5 +1,6 @@
-from random import randrange
+# Тестовый файл
 
+from random import randrange
 from test import power
 
 # f = open("temp.txt", "w")
