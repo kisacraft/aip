@@ -1,5 +1,5 @@
-num = input()
-if len(str(int(num)/2)) == 1:
+num = int(input())
+if num % 2 == 0:
     print(1)
 else:
     print(0)
